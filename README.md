@@ -3,7 +3,8 @@
 ###How to install and run
 - Install NodeJS
 - Clone this repo
-- Run the app:
+- cd into the new folder and run:
+  - npm install
   - npm start
 
 ###Where is the code?
